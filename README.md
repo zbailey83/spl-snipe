@@ -26,3 +26,6 @@ This project contains two different strategies for sniping new liquidity pairs:\
 1. **Automatic position exit strategy:** Implementing an automatic exit strategy based on user-specified parameters. Currently have to manually swap the tokens back to SOL.
 2. **Rugpull prevention:** SPL-Token are often rugpulled after launch, prevent the purchase of tokens with low-liquidity and no social media pages.
 3. **Reducing tx time:** Reduce time between LP creation and swap tx by utilizing a faster RPC connection and minimizing RPC calls before sending swap tx.
+
+![image](https://github.com/zbailey83/spl-snipe/assets/13815993/6c612d66-b3a8-4d63-b0fd-ee611a2255f5)
+
